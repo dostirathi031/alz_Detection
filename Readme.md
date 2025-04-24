@@ -1,0 +1,1 @@
+# This project is to predict alzhimer's stage and also highlights the region that affects the prediction.
